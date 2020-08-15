@@ -1,0 +1,97 @@
+body{
+	background-color: black;
+	color: white;
+	font-size: 18px;
+}
+.container-fluid{
+	background-color: black;
+}
+.col pt-2{
+background-color: black;	
+}
+strong{
+	color:white;
+}
+h1{
+	color:white;
+
+}
+input{
+	border:2px solid purple;
+	border-radius: 5px;
+	width: 100%;
+	height: 40px;
+
+}
+input[type=text]{
+	backgroung
+}
+form{
+	width: 100%;
+	background-color: black;
+	
+}
+fieldset{
+	background-color: black;
+}
+td{
+	font-weight: bold;
+}
+p{
+	font-weight: bold;
+}
+p{
+	margin: 10px;
+}
+td button{
+	border-radius: 5px;
+	padding: 10px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+	margin: 10px;
+
+}
+ul li a {
+	margin:10px;
+	background-color: black;
+	color: white;
+	width: 100%; 
+	font-weight: bold;
+	
+}
+ul li a hover:{
+	background-color: lightgreen;
+
+}
+
+#sidebar{
+	background-color: black;
+
+}
+.row{
+	background-color: black;
+}
+button a{
+	width: 100%;
+	height: 30px;
+	text-decoration: none;
+}
+table{
+	
+}
+.table-bordered {
+	color: white;
+	background-color: black;
+}
+.table-responsive{
+	background-color: black;
+}
+.details{
+	float: left;
+	margin: 5px;
+}
+.details span{
+	color:black;
+	float: right;
+}
